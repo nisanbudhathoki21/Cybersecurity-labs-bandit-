@@ -1,3 +1,13 @@
+## 📸 Screenshots
+
+### Bandit Level 0 – Successful Login
+
+![Bandit Level 0 Login](screenshots/bandit_level_0_login.png)
+
+> ⚠️ Passwords and flags are intentionally not included for ethical reasons.
+
+---
+
 # Cybersecurity Labs – OverTheWire Bandit
 
 This repository documents my hands-on learning in cybersecurity using
@@ -21,16 +31,6 @@ CyberSecurityLabs-bandit/
 ├── overthewire-bandit(level-0).md
 └── screenshots/
 └── bandit_level_0_login.png
-
-
----
-
-## 📸 Screenshots
-
-### Bandit Level 0 – Successful Login
-![Bandit Level 0 Login](screenshots/bandit_level_0_login.png)
-
-> ⚠️ Passwords and flags are intentionally not included for ethical reasons.
 
 ---
 
