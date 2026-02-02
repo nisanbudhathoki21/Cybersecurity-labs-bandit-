@@ -45,9 +45,4 @@ CyberSecurityLabs-bandit/
 This repository is for **educational purposes only**.  
 No passwords, flags, or sensitive data are shared.
 
----
 
-## 🚀 Next Steps
-- Complete Bandit Levels 1–10
-- Add structured writeups for each level
-- Expand into TryHackMe and Hack The Box labs
