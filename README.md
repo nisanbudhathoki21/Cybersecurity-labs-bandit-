@@ -1,7 +1,9 @@
+## Bandit Level 0
+
 ![Bandit Level 0 Login](https://raw.githubusercontent.com/nisanbudhathoki21/Cybersecurity-labs-bandit-/main/screenshots/bandit_level_0_login.png)
 
  
-                                                    ##Screenshots 
+                                                    
 
 > ⚠️ Passwords and flags are intentionally not included for ethical reasons.
 
